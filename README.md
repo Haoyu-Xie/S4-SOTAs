@@ -7,5 +7,5 @@
 ## Self-Supervised Learning
 |<img width=310/>PAPER<img width=310/>|<img width=30/>CODE<img width=30/>|CONFERENCE|
 |:----:|:----:|:----:|
-| [Distilling Localization for Self-Supervised Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17312)|[DiLo](https://github.com/nanxuanzhao/DiLo)|AAAI 21|
+| [Distilling Localization for Self-Supervised Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17312)|[DiLo](https://github.com/nanxuanzhao/DiLo)|AAAI21|
 
