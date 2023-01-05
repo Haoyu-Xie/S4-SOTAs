@@ -10,3 +10,7 @@
 | [Distilling Localization for Self-Supervised Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17312)|[DiLo](https://github.com/nanxuanzhao/DiLo)|AAAI21|
 |[Instance Localization for Self-Supervised Detection Pretraining](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Instance_Localization_for_Self-Supervised_Detection_Pretraining_CVPR_2021_paper.pdf)|[InsLoc](https://github.com/limbo0000/InstanceLoc)|CVPR21|
 
+## Semi-Supervised Learning (Classfication)
+|<img width=310/>PAPER<img width=310/>|<img width=30/>CODE<img width=30/>|CONFERENCE|
+|:----:|:----:|:----:|
+| [Unsupervised Selective Labeling for More Efficient Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17312)|[USL](https://github.com/nanxuanzhao/DiLo)|ECCV 2022|
