@@ -13,4 +13,4 @@
 ## Semi-Supervised Learning (Classfication)
 |<img width=310/>PAPER<img width=310/>|<img width=30/>CODE<img width=30/>|CONFERENCE|
 |:----:|:----:|:----:|
-| [Unsupervised Selective Labeling for More Efficient Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17312)|[USL](https://github.com/nanxuanzhao/DiLo)|ECCV 2022|
+| [Unsupervised Selective Labeling for More Efficient Semi-Supervised Learning](https://link.springer.com/chapter/10.1007/978-3-031-20056-4_25)|[USL](https://github.com/TonyLianLong/UnsupervisedSelectiveLabeling)|ECCV 2022|
